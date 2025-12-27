@@ -1,0 +1,9 @@
+fuel_type,vehicle_count,percentage
+EV,3555900,1.25
+PHEV,1307200,0.46
+HEV,7392300,2.59
+Gasoline,242870900,85.1
+Diesel,7184300,2.52
+Biodiesel,2803600,0.98
+Ethanol,20240600,7.09
+Hydrogen,16900,0.01
