@@ -95,18 +95,18 @@ The analysis was performed using the following tools:
 
 Priority States for EV Infrastructure Investment
 1. Texas
-  •	Large total vehicle base
-  •	EV adoption below 1%
-  •	High potential impact from targeted charging infrastructure
+   -	Large total vehicle base
+   -	EV adoption below 1%
+   -	High potential impact from targeted charging infrastructure
 2. Florida
   - Moderate EV adoption
-  •	Large population and tourism-driven transportation demand
-  •	Coastal environmental concerns increase EV relevance
+  -	Large population and tourism-driven transportation demand
+  -	Coastal environmental concerns increase EV relevance
 
 3. New York
-  •	Urban density supports EV usage
-  •	Adoption still trails leading states
-  •	Infrastructure expansion could accelerate uptake
+   -	Urban density supports EV usage
+   - 	Adoption still trails leading states
+   -	Infrastructure expansion could accelerate uptake
 
   Justification:
   These states combine:
