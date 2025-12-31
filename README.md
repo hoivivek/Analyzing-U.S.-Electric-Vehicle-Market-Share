@@ -20,56 +20,64 @@ The analysis was performed using the following tools:
 ## Key Analysis
 
 1. The percentage of EVs, PHEVs, HEVs, and Gasoline vehicles for each state
-   In each state the percentage of Gasoline vehicles is more than compared to EV, PHEV, HEV. This highlights that while EV adoption is growing, the U.S. vehicle market is       still heavily reliant on traditional fuels.
+   
+   In each state the percentage of Gasoline vehicles is more than compared to EV, PHEV, HEV. This highlights that while EV adoption is growing, the U.S. vehicle market is      still heavily reliant on traditional fuels.
+   
       <img width="1125" height="805" alt="image" src="https://github.com/user-attachments/assets/445cc97a-8d39-49e3-b1c3-4f4fa309229f" />
 
-2. Top 5 states with the highest EV adoption rate (EVs as a % of all registered vehicles)
+3. Top 5 states with the highest EV adoption rate (EVs as a % of all registered vehicles)
+   
    Top 5 states by EV adoption rate:
-    - California
-    - District of Columbia
-    - Hawaii
-    - Washington
-    - Nevada
+      - California
+      - District of Columbia
+      - Hawaii
+      - Washington
+      - Nevada
+      
     These states consistently show higher EV adoption.
 
       <img width="963" height="441" alt="image" src="https://github.com/user-attachments/assets/627d311a-5995-4816-b150-e611eb2c9df6" />
       
-3. Last 5 states with least EV adoption rates
+4. Last 5 states with least EV adoption rates
+   
    Last 5 states by EV adoption rate:
-   - Mississippi
-   - North Dakota
-   - Wyoming
-   - South Dakota
-   - West Virginia
+      - Mississippi
+      - North Dakota
+      - Wyoming
+      - South Dakota
+      - West Virginia
 
    <img width="1029" height="426" alt="image" src="https://github.com/user-attachments/assets/16432970-45d3-4344-975e-32f344232538" />
 
-4. EV adoption in California vs. other large states (e.g., Texas, Florida, New York)
+6. EV adoption in California vs. other large states (e.g., Texas, Florida, New York)
        
    Compared to California leading with 3.410%, Texas with 0.90%, New York with 1.170% and Florida with 1.380 % California leads decisively due to:
    - Strong EV incentives
    - Extensive charging infrastructure
    - Aggressive environmental policies
+     
    Other large states lag despite high total vehicle counts, indicating untapped EV growth potential.
 
    <img width="1051" height="488" alt="image" src="https://github.com/user-attachments/assets/72d9270b-f789-4f76-940e-f5d2ea8954ed" />
 
-5. Alternative fuels (biodiesel, ethanol, hydrogen) usage
+7. Alternative fuels (biodiesel, ethanol, hydrogen) usage
    
    Biodiesel - 0.98%, 
    Ethanol - 7.09%, 
    Hydrogen - 0.01%
 
-  - Ethanol has meaningful adoption and plays a transitional role.
-  - Biodiesel remains niche.
-  - Hydrogen vehicles have an extremely limited presence, suggesting high infrastructure and adoption barriers.
+     - Ethanol has meaningful adoption and plays a transitional role.
+     - Biodiesel remains niche.
+     - Hydrogen vehicles have an extremely limited presence, suggesting high infrastructure and adoption barriers.
 
   ### Visualizations
   
   1. EV Adoption in each State
+     
      <img width="1039" height="487" alt="image" src="https://github.com/user-attachments/assets/55fd648d-8784-49be-b90f-2eaa0da002b2" />
      
   2. Breakdown of Each Fuel type
+     
      <img width="567" height="473" alt="image" src="https://github.com/user-attachments/assets/113b513d-589d-4516-a1d4-6c3ae4d6e076" />
 
    
